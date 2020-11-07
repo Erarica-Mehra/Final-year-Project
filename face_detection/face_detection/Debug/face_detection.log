@@ -1,0 +1,10 @@
+﻿Build started 4/4/2016 7:36:04 PM.
+     1>Project "C:\Users\Erarica Mehra\documents\visual studio 2012\Projects\face_detection\face_detection\face_detection.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Erarica Mehra\documents\visual studio 2012\Projects\face_detection\Debug\face_detection.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV3.0\build\x86\vc11\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Erarica Mehra\documents\visual studio 2012\Projects\face_detection\Debug\face_detection.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Erarica Mehra\documents\visual studio 2012\Projects\face_detection\Debug\face_detection.lib" /MACHINE:X86 Debug\face_detection_im.obj
+         face_detection.vcxproj -> C:\Users\Erarica Mehra\documents\visual studio 2012\Projects\face_detection\Debug\face_detection.exe
+     1>Done Building Project "C:\Users\Erarica Mehra\documents\visual studio 2012\Projects\face_detection\face_detection\face_detection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63
