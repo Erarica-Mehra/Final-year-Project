@@ -1,5 +1,5 @@
 # Final-year-Project
-<p> Built an application on Face Recogntion system as my major project in 2015 - 2016</p>
+<p> Built an application on Face Recognition system as my major project in 2015 - 2016</p>
 <h2> Face Recognition Systems </h2>
 <p>Face recognition system is a computer application capable of verifying or
 identifying a person from a digital image. One of the ways to do this is to
